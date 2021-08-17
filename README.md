@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catalinmoraru82
+- 👋 Hi, I’m Catalin
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front-end projects
