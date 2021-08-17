@@ -7,7 +7,16 @@
 - 📫 How to reach me catalinmoraru82@gmail.com
 
 ### Connect with me
-[Instragram](https://www.instagram.com/catmo.dev/) 
+[Instragram](https://www.instagram.com/catmo.dev/)
+
+### Languages amd tools
+- Visual Studio Code
+- WebStorm
+- Github/GitLab
+- CSS/SCSS
+- HTML
+- JavaScript
+- ReactJS (Hooks so far ...)
 
 <!---
 catalinmoraru82/catalinmoraru82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
