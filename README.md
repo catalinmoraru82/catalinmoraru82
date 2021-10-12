@@ -2,7 +2,7 @@
 
 ##I am a Junior HTML AND CSS Developer @ EveryMatrix
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning ReactJs
+- 🖥️ I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me catalinmoraru82@gmail.com
 
