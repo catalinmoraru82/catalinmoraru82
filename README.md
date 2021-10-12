@@ -9,7 +9,7 @@
 ### Connect with me
 [Instragram](https://www.instagram.com/catmo.dev/)
 
-### Languages amd tools
+### Languages and tools
 - Visual Studio Code
 - WebStorm
 - Github/GitLab
