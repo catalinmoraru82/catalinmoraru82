@@ -15,7 +15,7 @@
 - coming soon
 
 ### Connect with me
-[Instragram](https://www.instagram.com/catmo.dev/) [Gmail](catalinmoraru82@gmail.com)
+[Instragram](https://www.instagram.com/catmo.dev/) | [Gmail](catalinmoraru82@gmail.com)
 
 ### Languages and tools
 - Visual Studio Code
