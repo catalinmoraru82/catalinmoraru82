@@ -8,8 +8,8 @@
 
 # Portofolio
 
-## JS course
-- coming soon
+## JS course projects
+- Feedback App (<code> | <live preview>)
 
 ## Loosey Goosey Projects, stuff that I liked building and wanted to make on my own
 - coming soon
