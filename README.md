@@ -9,7 +9,7 @@
 # Portofolio
 
 ## JS course projects
-- Feedback App ( [code](https://github.com/catalinmoraru82/feedback-app) | [live preview]() ) 
+- Feedback App ( [code](https://github.com/catalinmoraru82/feedback-app) | [live preview]() ) - it's just a fancy todo app disguised as a feedback app
 
 ## Loosey Goosey Projects, stuff that I liked building and wanted to make on my own
 - coming soon
