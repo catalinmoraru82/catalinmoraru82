@@ -8,14 +8,11 @@
 
 # Portofolio
 
-## JS course projects
+## JS stuff and projects
 - coming soon
-
-## React course projects
-- Feedback App ( [code](https://github.com/catalinmoraru82/feedback-app) | [live preview]() ) - it's just a fancy todo app disguised as a feedback app, built in React
 
 ## Loosey Goosey Projects, stuff that I liked building and wanted to make on my own
-- coming soon
+- [FEP Canal Street Market](https://fep-calnal-street-market.vercel.app/)
 
 ### Connect with me
 [Instragram](https://www.instagram.com/catmo.dev/) | [Gmail](catalinmoraru82@gmail.com)
