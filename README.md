@@ -9,7 +9,7 @@
 # Portofolio
 
 ## JS stuff and projects
-- coming soon
+- Just a basic React App, nothing fancy: https://react-basic-book-store.netlify.app/
 
 ## Loosey Goosey Projects, stuff that I liked building and wanted to make on my own
 - [FEP Canal Street Market](https://fep-calnal-street-market.vercel.app/)
