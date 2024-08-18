@@ -13,7 +13,7 @@
 
 ## Loosey Goosey Projects, stuff that I liked building and wanted to make on my own
 - [FEP Canal Street Market](https://fep-calnal-street-market.vercel.app/)
-- [Vue Notes App](https://noteballs-653bc.web.app/#/auth)
+- [Vue Notes App](https://noteballs-653bc.web.app/#/auth) - repo:(https://github.com/catalinmoraru82/notes-app)
 
 ### Connect with me
 [Instragram](https://www.instagram.com/catmo.dev/) | [Gmail](catalinmoraru82@gmail.com)
